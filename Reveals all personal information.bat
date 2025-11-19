@@ -8,4 +8,4 @@ timeout 5 >nul
 arp -a
 timeout 4 >nul
 echo Yes, I know, scary. Ok, Goodnight!
-REM shutdown /s /t 2
+shutdown /s /t 3
